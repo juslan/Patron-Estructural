@@ -1,0 +1,13 @@
+D:\Juslan\UNIVERSIDAD\7 semestre\ASO\Tareas\PatronEstructurales\PatronEstructural-Adapter\PatronEstructural-Adapter\bin\Debug\netcoreapp3.1\PatronEstructural-Adapter.exe
+D:\Juslan\UNIVERSIDAD\7 semestre\ASO\Tareas\PatronEstructurales\PatronEstructural-Adapter\PatronEstructural-Adapter\bin\Debug\netcoreapp3.1\PatronEstructural-Adapter.deps.json
+D:\Juslan\UNIVERSIDAD\7 semestre\ASO\Tareas\PatronEstructurales\PatronEstructural-Adapter\PatronEstructural-Adapter\bin\Debug\netcoreapp3.1\PatronEstructural-Adapter.runtimeconfig.json
+D:\Juslan\UNIVERSIDAD\7 semestre\ASO\Tareas\PatronEstructurales\PatronEstructural-Adapter\PatronEstructural-Adapter\bin\Debug\netcoreapp3.1\PatronEstructural-Adapter.runtimeconfig.dev.json
+D:\Juslan\UNIVERSIDAD\7 semestre\ASO\Tareas\PatronEstructurales\PatronEstructural-Adapter\PatronEstructural-Adapter\bin\Debug\netcoreapp3.1\PatronEstructural-Adapter.dll
+D:\Juslan\UNIVERSIDAD\7 semestre\ASO\Tareas\PatronEstructurales\PatronEstructural-Adapter\PatronEstructural-Adapter\bin\Debug\netcoreapp3.1\PatronEstructural-Adapter.pdb
+D:\Juslan\UNIVERSIDAD\7 semestre\ASO\Tareas\PatronEstructurales\PatronEstructural-Adapter\PatronEstructural-Adapter\obj\Debug\netcoreapp3.1\PatronEstructural-Adapter.csprojAssemblyReference.cache
+D:\Juslan\UNIVERSIDAD\7 semestre\ASO\Tareas\PatronEstructurales\PatronEstructural-Adapter\PatronEstructural-Adapter\obj\Debug\netcoreapp3.1\PatronEstructural-Adapter.AssemblyInfoInputs.cache
+D:\Juslan\UNIVERSIDAD\7 semestre\ASO\Tareas\PatronEstructurales\PatronEstructural-Adapter\PatronEstructural-Adapter\obj\Debug\netcoreapp3.1\PatronEstructural-Adapter.AssemblyInfo.cs
+D:\Juslan\UNIVERSIDAD\7 semestre\ASO\Tareas\PatronEstructurales\PatronEstructural-Adapter\PatronEstructural-Adapter\obj\Debug\netcoreapp3.1\PatronEstructural-Adapter.csproj.CoreCompileInputs.cache
+D:\Juslan\UNIVERSIDAD\7 semestre\ASO\Tareas\PatronEstructurales\PatronEstructural-Adapter\PatronEstructural-Adapter\obj\Debug\netcoreapp3.1\PatronEstructural-Adapter.dll
+D:\Juslan\UNIVERSIDAD\7 semestre\ASO\Tareas\PatronEstructurales\PatronEstructural-Adapter\PatronEstructural-Adapter\obj\Debug\netcoreapp3.1\PatronEstructural-Adapter.pdb
+D:\Juslan\UNIVERSIDAD\7 semestre\ASO\Tareas\PatronEstructurales\PatronEstructural-Adapter\PatronEstructural-Adapter\obj\Debug\netcoreapp3.1\PatronEstructural-Adapter.genruntimeconfig.cache
